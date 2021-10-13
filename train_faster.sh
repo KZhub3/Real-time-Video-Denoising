@@ -1,0 +1,1 @@
+python train_faster234.py --batch_size 1 --save_every_epochs 1 --epochs 300 --log_dir /home/qinxiaoran/fastdvdnet_zky/logs_mevgii3 --trainset_dir /home/qinxiaoran/fastdvdnet_zky/trainset --valset_dir /home/qinxiaoran/lpz_denoising/test_sequences/gopro_540p/ --milestone 150 200 --lr 3e-4
