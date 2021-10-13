@@ -33,9 +33,13 @@ FastDVDnet：https://arxiv.org/abs/1907.01361
 6. **train_faster135.py** (训练代码运行，运行可用train_faster.sh)
 7. utils.py
 
+所有需要的代码都已经上传到Github上。
+
 所需权重：
 
-路径../fastdvdnet_zky/logs_mevgii3/ (注：这里的命名是mevgii，不是megvii，此锅owner不背）
+GitHub上已上传权重 ckpt_e150.pth
+
+或路径../fastdvdnet_zky/logs_mevgii3/ckpt_e150.pth (注：这里的命名是mevgii，不是megvii，此锅owner不背）
 
 ## Best Performance So Far
 
