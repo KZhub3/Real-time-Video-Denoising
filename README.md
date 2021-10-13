@@ -28,7 +28,7 @@ FastDVDnet：https://arxiv.org/abs/1907.01361
 1. dataloaders.py
 2. dataset.py
 3. fastdvdnet.py
-4. models_mevgii3.py
+4. models_megvii3.py
 5. **test_temp.py**  (测试代码运行，运行可用test.sh)
 6. **train_faster135.py** (训练代码运行，运行可用train_faster.sh)
 7. utils.py
