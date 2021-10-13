@@ -39,9 +39,9 @@ FastDVDnet：https://arxiv.org/abs/1907.01361
 
 ## Best Performance So Far
 
-![0390e64a1406d7e42fef061e4e553a1](https://user-images.githubusercontent.com/65483602/137082485-6c89675e-75a5-4fb2-b9b7-1d1265afccfe.png)
+![7c1c9a240e24b193bb68b0c0c0e52c3](https://user-images.githubusercontent.com/65483602/137088769-9d398730-4a9e-45cb-86da-6ff5477e156c.png)
 
-蓝色背景数字 **22.17** 为连续处理25帧图片时，每帧图片去噪需要 22.17ms ；黄色背景数字 **30.49** 为PSNR。
+蓝色背景数字 **21.10** 为连续处理25帧图片时，每帧图片去噪需要 21.10ms ；黄色背景数字 **30.49** 为PSNR。
 
 **该模型结构为：**
 
